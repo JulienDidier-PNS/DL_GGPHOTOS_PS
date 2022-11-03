@@ -1,6 +1,4 @@
-# ********************************************************************
-#     Download ⏬ google photos and upload it via SFTP to my NAS
-# ********************************************************************
+# Download ⏬ google photos and upload it via SFTP
 
 I'm a beginner in the powershell langage and in the use of git 😏 be merciful
 
