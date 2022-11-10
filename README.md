@@ -1,8 +1,6 @@
-# **********
-# PS SCRIPT 
-# **********
+# Download ⏬ google photos and upload it via SFTP
 
-## Download photos from google photos and upload it via SFTP to my NAS
+I'm a beginner in the powershell langage and in the use of git 😏 be merciful
 
 The Download GooglePhoto script is strongly inspired of this one 
 https://github.com/PowershellPunk/GooglePhotosAPIPowershell/blob/master/Get-GooglePhotos.psm1
